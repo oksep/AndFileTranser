@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">服务器</string>
+    <string name="app_name">服务器</string>
+    <string name="tip">tips</string>
+	<string name="filename">文件名:</string>
+	<string name="status">状态:</string>
+	<string name="from">来自:</string>
+	<string name="servermsg">服务器信息:</string>
+	<string name="connnum">连接数:</string>
+	<string name="wifiunable">网络不可用</string>
+	<string name="isreciving">正在接受文件:</string>
+	<string name="percent">%</string>
+	<string name="neterror">网络异常</string>
+	<string name="waitconn">等待连接</string>
+	<string name="join">加入</string>
+	<string name="acccomplete">接收完成</string>
+	<string name="connfailed">接收失败</string>
+<string name="connbreak">断开连接      </string>
+	
+	
+</resources>
